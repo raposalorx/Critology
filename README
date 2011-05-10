@@ -1,0 +1,13 @@
+Critology has the ability to:
+-record highest normal damaging-hits/heals with the name of the mob/player on which it happened and the time that it happened
+-record highest critical damaging-hits/heals with the name of the mob/player on which it happened and the time that it happened
+-record your average values for damage/heals and crits
+-record the historical crit chance of spells
+-view highest hits and or crits in spell tooltips
+-view names and time in tooltips
+-notify you when you break a record in the default chat frame
+-notify you when you break a crit record graphically
+-notify guild and or party when you break a crit record
+-take a screenshot when you break a crit record
+
+The options menu is available in the blizzard interface add-on options section or by using the command /critology

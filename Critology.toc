@@ -1,0 +1,12 @@
+## Interface: 20400
+## Title: Critology
+## Notes: Tracks your highest hits 'n crits.
+## Author: Maelstrom Scripting
+## Version: 2.4.1.2
+## SavedVariables: CritologyDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+## X-Category: Miscellaneous
+
+embeds.xml
+Core.lua

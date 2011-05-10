@@ -1,0 +1,18 @@
+Critology 2.4.1.2
+-----------------
+-tooltips are now more compressed and colour coded
+-organized the options menu
+-added the ability to calculate and display averages
+-made mod more efficient
+-added the ability to calculate historical critchance
+
+Critology 2.4.1
+---------------
+-Allows graphical notification of breaking a crit record
+-Allows the taking of screenshots on crit
+-Allows telling guild members when you break a crit record
+-Removed the loaded notice
+
+Critology 2.4.0
+---------------
+-default mod
